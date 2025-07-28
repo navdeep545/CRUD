@@ -1,6 +1,6 @@
 # FastAPI CRUD
 
-This is a basic CRUD (Create, Read, Update, Delete) application built using FastAPI, SQLAlchemy, and PostgreSQL.
+This is a CRUD (Create, Read, Update, Delete) application built using FastAPI, SQLAlchemy, and PostgreSQL.
 
 ## Tech Stack
 
